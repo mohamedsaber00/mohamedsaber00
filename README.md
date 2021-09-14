@@ -6,7 +6,7 @@ I'm Android developer published my first app in 2014 with +4 years of profession
 
 I built Motion Sense using Kotlin, OpenCV and NDK to analyze hand movememnt using camera
 
-##I can Work with:
+# I can Work with:
 -Kotlin, Java, Python
 -MVVM, MVI, MVP
 -Dagger, Jetpack, architecture components, Compose
