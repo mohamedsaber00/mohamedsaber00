@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Android developer published my first app in 2014 with +4 years of professional experience (+2 years with kotlin)
+I'm Android developer From Egypt 🇪🇬 Working at Candybytes 🇦
+🇹I published my first app in 2014 with +4 years of professional experience (+3 years with kotlin)
 
 ## [Motion Sense](https://play.google.com/store/apps/details?id=pro.airgesutre&hl=en&gl=US)
 
