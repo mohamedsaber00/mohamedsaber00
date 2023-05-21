@@ -15,7 +15,9 @@ I built Motion Sense using Kotlin, OpenCV and NDK to analyze hand movememnt usin
 - jUnit, Espresso, Mockito
 - Agile: Scrum
 
-- 💬 Ask me about Kotlin, Android, Compose and KMM
+
+
+# 💬 Ask me about Kotlin, Android, Compose and KMM
 
 
 <!--
