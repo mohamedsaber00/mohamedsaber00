@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Android developer From Egypt 🇪🇬 Working at Candybytes 🇦🇹
+## I'm Android developer From Egypt 🇪🇬 
 ### I published my first app in 2014 with +4 years of professional experience 
 
 ## [Motion Sense](https://play.google.com/store/apps/details?id=pro.airgesutre&hl=en&gl=US)
@@ -9,12 +9,13 @@ I built Motion Sense using Kotlin, OpenCV and NDK to analyze hand movememnt usin
 
 ## I can Work with:
 - Kotlin, Java, Python
-- MVVM, MVI, MVP
-- Dagger, Jetpack, architecture components, Compose
-- Retrofit, WebSocket
+- Clean architecture, Kotlin multiplatform
+- jitpack libraries, jetpack Compose
 - Coroutines, Flow, RxJava
-- JUnit, Espresso, Mockito
+- jUnit, Espresso, Mockito
 - Agile: Scrum
+
+- 💬 Ask me about Kotlin, Android, Compose and KMM
 
 
 <!--
