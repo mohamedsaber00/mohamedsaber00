@@ -10,7 +10,7 @@ I built Motion Sense using Kotlin, OpenCV and NDK to analyze hand movememnt usin
 ## I can Work with:
 - Kotlin, Java, Python
 - Clean architecture, Kotlin multiplatform
-- jitpack libraries, jetpack Compose
+- Jetpack libraries, jetpack Compose
 - Coroutines, Flow, RxJava
 - jUnit, Espresso, Mockito
 - Agile: Scrum
