@@ -17,7 +17,7 @@ I built Motion Sense using Kotlin, OpenCV and NDK to analyze hand movememnt usin
 
 
 
-# 💬 Ask me about Kotlin, Android, Compose and KMM
+### 💬 Ask me about Kotlin, Android, Compose and KMM
 
 
 <!--
