@@ -1,36 +1,43 @@
-## Hi there 👋
+## 👋 Hi there  
 
-## I'm Android developer From Egypt 🇪🇬, based in Spain 🇪🇸
-### I published my first app in 2014 with +6 years of professional experience 
+### **Senior Android Engineer | Built and maintained apps with 650K+ active users**
 
-## [Motion Sense](https://play.google.com/store/apps/details?id=pro.airgesutre&hl=en&gl=US)
+I’m an Android engineer with **6+ years of professional experience**, building apps used by hundreds of thousands of users. My work focuses on delivering **high-performance, secure, and user-friendly mobile applications**, with expertise across **native Android and cross-platform development**.  
 
-I built Motion Sense using Kotlin, OpenCV and NDK to analyze hand movememnt using camera
+---
 
-## I can Work with:
-- Kotlin, Java, Swift
-- Clean architecture, Kotlin multiplatform
-- Jetpack libraries including jetpack Compose
+### 🚀 **Selected Work**  
+
+#### **[Motion Sense](https://play.google.com/store/apps/details?id=pro.airgesutre&hl=en&gl=US)**  
+Gesture recognition app analyzing real-time hand movements via camera.  
+- Built with **Kotlin, OpenCV, and Android NDK (C++)** for optimized image processing.  
+- Achieved **~80% faster frame processing** and improved real-time responsiveness.  
+
+#### **Production Apps (650K+ Monthly Active Users)**  
+- Delivered **99.99% crash-free sessions** across 6 social and government apps.  
+- Migrated legacy UI to **Jetpack Compose**, improving maintainability and user experience.  
+- Integrated **CI/CD pipelines** and refactored to **Clean Architecture**.  
+
+---
+
+### ✅ **Tech Stack & Expertise**  
+
+**Languages & Platforms:**  
+- Kotlin, Java, Swift, C++ (NDK), Kotlin Multiplatform  
+
+**Android & Architecture:**  
+- Compose multiplatform and Swift UI
+- Android Jetpack libraries  
+- Clean Architecture, MVVM, MVI, Dependency Injection (Hilt, Dagger)  
 - Coroutines, Flow
+- - OpenCV and mediapipe
+
+**Testing & Quality:**  
 - jUnit, Espresso, Mockito
-- Agile: Scrum
+- CI/CD with GitHub Actions, Bitrise, Fastlane  
 
+**Other Relevant Experience:**  
+- Agile (Scrum), A/B Testing, Analytics integration  
+- Experience with payment systems, subscription handling, and secure data storage
 
-
-### 💬 Ask me about Kotlin, Android, Compose and KMP
-
-
-<!--
-**mohamedsaber00/mohamedsaber00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Spain 
