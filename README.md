@@ -10,13 +10,8 @@ I’m an Android engineer with **6+ years of professional experience**, building
 
 #### **[Motion Sense](https://play.google.com/store/apps/details?id=pro.airgesutre&hl=en&gl=US)**  
 Gesture recognition app analyzing real-time hand movements via camera.  
-- Built with **Kotlin, OpenCV, and Android NDK (C++)** for optimized image processing.  
-- Achieved **~80% faster frame processing** and improved real-time responsiveness.  
-
-#### **Production Apps (650K+ Monthly Active Users)**  
-- Delivered **99.99% crash-free sessions** across 6 social and government apps.  
-- Migrated legacy UI to **Jetpack Compose**, improving maintainability and user experience.  
-- Integrated **CI/CD pipelines** and refactored to **Clean Architecture**.  
+- Built with **Kotlin, OpenCV, and Android NDK (C++)** for calls and music controls using hand gestures.  
+- Used NDK for hand landmarks analysis resulted of **~40% faster frame processing** and improved real-time responsiveness.  
 
 ---
 
