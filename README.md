@@ -13,7 +13,7 @@ Gesture recognition app analyzing real-time hand movements via camera.
 
 ---
 
-### ✅ **Tech Stack & Expertise**  
+### ✅ **Tech Stack
 
 **Languages & Platforms:**  
 - Kotlin, Java, Swift, C++ (NDK), Kotlin Multiplatform  
