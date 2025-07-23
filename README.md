@@ -1,7 +1,5 @@
 ## 👋 Hi there  
 
-### Android Engineer 
-
 I’m an Android engineer with **6+ years of professional experience**, building and maintaining apps with 650K monthly active users. My work focuses on delivering **high-performance, secure, and user-friendly mobile applications**, with expertise across **native Android and cross-platform development**.  
 
 ---
